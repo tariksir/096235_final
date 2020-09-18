@@ -1,4 +1,4 @@
-student_i,fit_duration,rate_duration,model_class,memory_size,total_questions,SAP_score
+row,student_i,fit_duration,rate_duration,model_class,memory_size,total_questions,SAP_score
 0,0BrbPbwCMz,0.233,26673082.657,Edurank,5,289,0.7891787694112865
 1,46z59pQP58,2.074,26673084.732,Edurank,5,193,0.8781712260731828
 2,52vEY7f17k,1.558,26673086.331,Edurank,5,280,0.803890306122449
